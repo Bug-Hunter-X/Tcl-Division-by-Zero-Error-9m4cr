@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: division by zero.  The `bug.tcl` file contains the erroneous code, which fails when the first argument to `badproc` is 0.  The `bugSolution.tcl` file provides a corrected version.
